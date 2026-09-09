@@ -19,3 +19,5 @@
 - Добавлен раздел `50_Logs/dialogs/` для переноса контекста диалогов между устройствами.
 - Импортирован индекс 19 видимых диалогов Codex/ChatGPT в `50_Logs/dialogs/2026-09-09-codex-dialog-index.md`.
 - Добавлен журнал сессии `50_Logs/sessions/2026-09-09-dialog-index-import.md`.
+- Добавлена процедура `40_Wiki/processes/open-knowledge-base-on-phone.md` для открытия базы знаний и индекса диалогов на телефоне.
+- Добавлен журнал сессии `50_Logs/sessions/2026-09-09-phone-access-instructions.md`.

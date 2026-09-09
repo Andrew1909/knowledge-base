@@ -24,3 +24,4 @@
 | `ai-skills-catalog.md` | Каталог AI-навыков и известных рабочих процессов. | partially_verified |
 | `cad-drawings-from-3d-models.md` | CAD-чертежи по 3D-моделям, A4, масштаб `1:1`, DXF/DWG/PDF/PNG. | verified |
 | `blender-sculpt-retopology-cloth.md` | Blender: блокинг, лепка, ретопология, направляющие контуры и Cloth. | partially_verified |
+| `open-knowledge-base-on-phone.md` | Открытие GitHub-базы знаний и индекса диалогов на телефоне. | verified |
