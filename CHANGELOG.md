@@ -16,3 +16,6 @@
 - Добавлен локальный инвентарь и список неизвестного `00_Inbox/2026-09-09-local-data-inventory.md`.
 - Добавлен журнал сессии `50_Logs/sessions/2026-09-09-transfer-pack-and-local-data-analysis.md`.
 - Добавлен `.gitattributes` для стабильных UTF-8/LF текстовых файлов.
+- Добавлен раздел `50_Logs/dialogs/` для переноса контекста диалогов между устройствами.
+- Импортирован индекс 19 видимых диалогов Codex/ChatGPT в `50_Logs/dialogs/2026-09-09-codex-dialog-index.md`.
+- Добавлен журнал сессии `50_Logs/sessions/2026-09-09-dialog-index-import.md`.

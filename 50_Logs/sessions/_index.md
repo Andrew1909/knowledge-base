@@ -26,3 +26,4 @@
 |---|---|
 | `2026-09-09-github-source-of-truth-rule.md` | Закрепление GitHub как единого источника правды. |
 | `2026-09-09-transfer-pack-and-local-data-analysis.md` | Анализ transfer-pack навыков и локального инвентаря нового ПК. |
+| `2026-09-09-dialog-index-import.md` | Импорт переносимого индекса видимых диалогов Codex/ChatGPT. |
