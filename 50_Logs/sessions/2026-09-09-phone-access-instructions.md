@@ -6,7 +6,6 @@
 
 ## Сделано
 
-- Добавлена повторяемая процедура `40_Wiki/processes/open-knowledge-base-on-phone.md`.
 - Зафиксировано, что основной маршрут: открыть GitHub, перейти в `Andrew1909/knowledge-base`, прочитать `README.md`, `AGENTS.md`, затем `50_Logs/dialogs/2026-09-09-codex-dialog-index.md`.
 - Добавлен вариант для ChatGPT на телефоне через GitHub connector.
 

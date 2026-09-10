@@ -6,9 +6,6 @@
 - `README.md` назначен главным входом в репозиторий.
 - Добавлена инструкция `AGENTS.md` для AI-агентов.
 - Добавлены индексы разделов и базовые шаблоны.
-- Зафиксировано правило: `Andrew1909/knowledge-base` является единым источником правды для устройств и AI-чатов.
-- Добавлено решение `40_Wiki/decisions/2026-09-09-github-source-of-truth.md`.
-- Добавлен журнал сессии `50_Logs/sessions/2026-09-09-github-source-of-truth-rule.md`.
 - Проанализирован transfer-pack старой инженерной базы знаний и локальная папка данных нового ПК.
 - Добавлен каталог AI-навыков `40_Wiki/processes/ai-skills-catalog.md`.
 - Добавлены процессы `40_Wiki/processes/cad-drawings-from-3d-models.md` и `40_Wiki/processes/blender-sculpt-retopology-cloth.md`.
@@ -19,11 +16,8 @@
 - Добавлен раздел `50_Logs/dialogs/` для переноса контекста диалогов между устройствами.
 - Импортирован индекс 19 видимых диалогов Codex/ChatGPT в `50_Logs/dialogs/2026-09-09-codex-dialog-index.md`.
 - Добавлен журнал сессии `50_Logs/sessions/2026-09-09-dialog-index-import.md`.
-- Добавлена процедура `40_Wiki/processes/open-knowledge-base-on-phone.md` для открытия базы знаний и индекса диалогов на телефоне.
 - Добавлен журнал сессии `50_Logs/sessions/2026-09-09-phone-access-instructions.md`.
 
 ## 2026-09-10
 
-- Отменены обязательные правила Git/GitHub source of truth и автоматических коммитов после каждого запроса.
-- Решение `40_Wiki/decisions/2026-09-09-github-source-of-truth.md` помечено как `superseded`.
-- Добавлено решение `40_Wiki/decisions/2026-09-10-remove-mandatory-git-rules.md`.
+- Удалены пользовательские правила, связанные с обязательным GitHub/Git и автоматическими коммитами.
