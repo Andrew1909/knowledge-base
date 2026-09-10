@@ -26,7 +26,7 @@ source: текущая Codex-сессия и transfer-pack инженерной 
 |---|---|---|
 | CAD-чертежи по 3D-моделям | STEP/STP, DWG, DXF, PDF, PNG, оформление ЕСКД/ГОСТ | `40_Wiki/processes/cad-drawings-from-3d-models.md` |
 | Blender: лепка, ретопология, ткань | BLEND, скульптинг, направляющие контуры, Cloth-симуляция | `40_Wiki/processes/blender-sculpt-retopology-cloth.md` |
-| Безопасное пополнение базы | Новое повторно используемое знание после проекта | `AGENTS.md`, `40_Wiki/decisions/2026-09-09-github-source-of-truth.md` |
+| Безопасное пополнение базы | Новое повторно используемое знание после проекта | `AGENTS.md`, `40_Wiki/decisions/2026-09-10-remove-mandatory-git-rules.md` |
 | Импорт переносного снимка базы | Анализ transfer-pack и восстановление контекста | `30_Resources/imports/engineering-knowledge-base-transfer-2026-09-09.md` |
 
 ## Codex-навыки, замеченные в текущей среде

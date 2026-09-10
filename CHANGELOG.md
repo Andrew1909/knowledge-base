@@ -21,3 +21,9 @@
 - Добавлен журнал сессии `50_Logs/sessions/2026-09-09-dialog-index-import.md`.
 - Добавлена процедура `40_Wiki/processes/open-knowledge-base-on-phone.md` для открытия базы знаний и индекса диалогов на телефоне.
 - Добавлен журнал сессии `50_Logs/sessions/2026-09-09-phone-access-instructions.md`.
+
+## 2026-09-10
+
+- Отменены обязательные правила Git/GitHub source of truth и автоматических коммитов после каждого запроса.
+- Решение `40_Wiki/decisions/2026-09-09-github-source-of-truth.md` помечено как `superseded`.
+- Добавлено решение `40_Wiki/decisions/2026-09-10-remove-mandatory-git-rules.md`.
